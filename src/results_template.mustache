@@ -1,0 +1,16 @@
+<h2>{{Name}}</h2>
+{{inDocLength}} Instances, {{linkLength}} Suspected Links 
+<ul>{{#fields}}<li>{{.}}</li>{{/fields}}</ul>
+
+<div> 
+<strong>Suspected Links</strong>
+{{#matches}}
+<dl>
+  <dt><strong>{{name}}</strong></dt>
+  <dd>
+  Possible link spotted in the text <strong>{{text}}</strong> in the field <strong>{{field}}</strong>
+  </dd>
+
+</dl>
+{{/matches}}
+</div>

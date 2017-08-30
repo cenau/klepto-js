@@ -1,7 +1,7 @@
 {
-  "name": "skeleton",
+  "name": "klepto",
   "version": "0.0.1",
-  "description": "minimal static javascript starter",
+  "description": "filthy crosschecker",
   "main": "",
   "dependencies": {
     "budo": "^10.0.3",

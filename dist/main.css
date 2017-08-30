@@ -1,0 +1,21 @@
+#dropzone {
+	float:left;
+}
+
+#files {
+	float:left;
+}	
+#files div{
+	float:left;
+	padding: 1em;
+	margin-left: 1em;
+}	
+
+#results {
+	clear:both;
+}
+
+.result {
+	padding-top:4em;
+
+}

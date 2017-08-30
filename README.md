@@ -1,15 +1,10 @@
-#Minimal javascript starter
+#Filthy crosschecking prototype
 
-source goes in `src`
+Drop excel spreadsheets on the Tasteful Coral Box of Revalation: if they have been formatted appropriately, wisdom may follow.
 
-`npm install` to install deps and dev deps 
+A commission for a friend in need of a quick and dirty investigation tool.
 
-`npm run dev` for dev server 
+Correct formatting is: first row is HEADERS.
+one HEADER must be 'Name' - this is used as the key.
 
-`npm run build` to build
-
-`npm run lint` to lint 
-
-`npm run lint:fix` to autofix 
-
-transpiled stuff ends up in `dist`
+Your browser is not broken, it really looks like that. Do not adjust your set.  
